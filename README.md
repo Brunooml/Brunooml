@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Bruno!</strong>
+## Olá, meu nome é <strong>Bruno!</strong>
 
 Em Março de 2022 decidi migrar de área e iniciar meus estudos na área de desenvolvimento web pela Trybe.
 
