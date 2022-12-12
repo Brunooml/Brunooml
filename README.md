@@ -3,7 +3,7 @@
 Em Março de 2022 decidi migrar de área e iniciar meus estudos na área de desenvolvimento web pela Trybe.
 
 <p align="left">
-  <a href="bml0401@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwfXTmWfqrcPTDFzkSmHqxlbMbdgXGlnGFnwhDmnjgwTVqJnFwWqKMHcszlPXrjvcGlGSD" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/bruno-monteiro-110a29172/" alt="Linkedin">
@@ -13,7 +13,6 @@ Em Março de 2022 decidi migrar de área e iniciar meus estudos na área de dese
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
