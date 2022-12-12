@@ -22,5 +22,4 @@ Em Março de 2022 decidi migrar de área e iniciar meus estudos na área de dese
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ---
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooml&layout=compact)](https://github.com/brunooml/github-readme-stats)
+  
