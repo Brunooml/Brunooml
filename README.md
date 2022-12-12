@@ -23,4 +23,4 @@ Em Março de 2022 decidi migrar de área e iniciar meus estudos na área de dese
 
 ---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunooml&layout=compact)](https://github.com/Brunooml/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooml&layout=compact)](https://github.com/brunooml/github-readme-stats)
