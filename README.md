@@ -3,7 +3,7 @@
 Em Março de 2022 decidi migrar de área e iniciar meus estudos na área de desenvolvimento web pela Trybe.
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwfXTmWfqrcPTDFzkSmHqxlbMbdgXGlnGFnwhDmnjgwTVqJnFwWqKMHcszlPXrjvcGlGSD" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDlKzRDGHWbjhkzhPCQQFkPkkPfVPGfnRfmmFdwbKhshBlRjbCGHqKVWdDwvkTbXZVjHL" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/bruno-monteiro-110a29172/" alt="Linkedin">
